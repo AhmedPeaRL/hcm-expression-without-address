@@ -1,0 +1,7 @@
+{
+  "emission": {
+    "broadcast": false,
+    "routed": false,
+    "queued": false
+  }
+}
